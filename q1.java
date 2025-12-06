@@ -9,8 +9,8 @@ public class q1
 {
     public static void main(String[] args)
     {
-        char n="rochak";
-        System.out.println("n");
+        System.out.println("My name is:");
+        System.out.println("Rochak Thapa");
         
     }
     
